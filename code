@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
 
-  int num1, num2, sum;
+  int num1, num6, sum;
 
   printf("Enter two integers: ");
   //Storing user input into variable num1 & num2
